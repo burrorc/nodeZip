@@ -1,0 +1,1 @@
+exports.messages =["You're great!", "You can do it!", "Success is coming!" ]
